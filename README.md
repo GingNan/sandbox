@@ -1,2 +1,5 @@
-# sandbox
-這是一個為了Git學習所開的專案
+git init
+git andd README.md
+git commit -m "first commit"
+git remote add origin https://github.com/GingNan/sandbox.git
+git push -u origin master
